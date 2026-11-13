@@ -1,0 +1,569 @@
+<mxfile host="Electron" modified="2025-10-30T15:02:11.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="K7kfRLI_jqr31yrpt0U6" version="24.6.4" type="device">
+  <diagram name="Seite-1" id="BxO2NV8vHaFf3PGtS5m4">
+    <mxGraphModel dx="149" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-183" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="2090" y="80" width="1220" height="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-180" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2968" y="90" width="332" height="2690" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-177" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2673.88" y="90" width="286.12" height="2691" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-175" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2485.13" y="91" width="184.87" height="2689" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-176" value="&lt;h4 style=&quot;box-sizing: border-box; color: rgb(59, 65, 81); font-family: sans-serif; margin: 0px; flex: 1 1 0%; text-align: start;&quot; class=&quot;opblock-title parameter__name required&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Request body&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2507.57" y="91" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-173" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="90" width="375" height="2690" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2968.28" y="2730" width="263.72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2969.88" y="2640" width="289.12" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972" y="2475" width="274.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972" y="2380" width="267" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972.28" y="2155" width="270" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972" y="1981" width="267" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2974" y="1855" width="265" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2975.56" y="1600" width="263.44" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2975.56" y="1499" width="263.44" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2975.56" y="1380" width="264.88" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2969" y="1110" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972" y="896" width="264.88" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972.12" y="700" width="247" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972.12" y="479" width="264.88" height="187" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2970.25" y="395" width="324.75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2972.25" y="220" width="254.75" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2973" y="135.5" width="247" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-21" target="MxVG2Uw_UsaYFf1mZjNR-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-21" value="&amp;nbsp;Vorgang: Get basic data&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="139" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/vorgang/{vNr}&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="128" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-23" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2419" y="152" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-24" value="1. Header: 200 OK&lt;div style=&quot;text-align: center;&quot;&gt;2. Body:&amp;nbsp;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&quot;vNr&quot;: &quot;&lt;/span&gt;I-230032&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2975" y="136" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-25" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[PUT]/r/vorgang/{vNr}/infotext&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="209" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-26" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;infoText&quot;: &quot;&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2495" y="211" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-27" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;infoText&quot;: &quot;&lt;span style=&quot;background-color: initial;&quot;&gt;Test_infoText&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2495" y="283.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-28" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="234" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-30" target="MxVG2Uw_UsaYFf1mZjNR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-30" value="&amp;nbsp;Vorgang: Update the description text" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="222" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-32" target="MxVG2Uw_UsaYFf1mZjNR-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-32" value="&amp;nbsp;Vorgang: Get basic data&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="264" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-34" target="MxVG2Uw_UsaYFf1mZjNR-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-34" value="&amp;nbsp;Vorgang: Update the description text" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="303.5" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-36" target="MxVG2Uw_UsaYFf1mZjNR-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-36" value="&amp;nbsp;Vorgang: Get basic data&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="343.5" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-37" value="1. Header: 204" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="217" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-38" value="2. Body: &quot;vorgangInfoText&quot;: &quot;&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="257.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-39" value="3. Header: 204" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-40" value="4. Body: &quot;vorgangInfoText&quot;: &quot;Test_infoText&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="338" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-42" target="MxVG2Uw_UsaYFf1mZjNR-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-42" value="Vorgang: Get serial number data and steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="404" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-43" value="1. Header: 200 OK&lt;div style=&quot;text-align: center;&quot;&gt;2. Body:&amp;nbsp;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;$.seriennummern[*].seriennummer: &quot;&lt;/span&gt;60NJ00143&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2976" y="394" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-45" target="MxVG2Uw_UsaYFf1mZjNR-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-45" value="Vorgang: Update step states" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="483" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-46" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[POST]/r/vorgang/{vNr}/{produkt}/bulk_edit_steps&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="466" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-47" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;actions&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;stepType&quot;: &quot;...&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;stepID&quot;: ...,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;markAsCompleted&quot;: true,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;selectedChoice&quot;: null&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;&amp;nbsp; ]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="466" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-48" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/vorgang/{vNr}/{produkt}/seriennummern&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="398" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-49" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="423" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-50" value="BB131a-5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2305" y="491" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-51" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="491" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-52" value="$.seriennummern[*].steps[*].id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="428" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-54" target="MxVG2Uw_UsaYFf1mZjNR-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2579" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-54" value="$.seriennummern[*].steps[*].type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2610" y="443" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-55" value="[2]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="423" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-56" value="1. Header: 204" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2978" y="477" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-57" value="2. Body: $.seriennummern[*].steps[2].state:&quot;ok&quot;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2978" y="636" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-59" target="MxVG2Uw_UsaYFf1mZjNR-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-59" value="Vorgang: Get serial number data and steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="641" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-60" value="Vorgang: Get all serial numbers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="708" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-61" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/vorgang/{vNr}/seriennummern&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="705.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-62" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="730.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-63" value="1. Header: 200 OK&lt;div style=&quot;text-align: center;&quot;&gt;2. Body:&amp;nbsp;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&quot;&lt;/span&gt;60NJ00143&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&quot; in [*]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2977" y="702" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-66" target="MxVG2Uw_UsaYFf1mZjNR-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-66" target="MxVG2Uw_UsaYFf1mZjNR-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-66" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Body:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;91NJ00144&quot; in [*]?&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="2695.13" y="758" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-60" target="MxVG2Uw_UsaYFf1mZjNR-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-69" target="MxVG2Uw_UsaYFf1mZjNR-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-69" value="&amp;nbsp;Vorgang: Migrate serial numbers to a Vorgang&lt;div&gt;I-250027&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="875" width="130" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-71" target="MxVG2Uw_UsaYFf1mZjNR-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-71" value="&amp;nbsp;Vorgang: Migrate serial numbers to a Vorgang&lt;div&gt;I-230032&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2822" y="875" width="130" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-72" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[POST]/r/vorgang/migrate&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="871" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-73" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;newVNr&quot;: &quot;I-250027/&lt;span style=&quot;text-align: center; text-wrap: wrap; background-color: initial;&quot;&gt;I-230032&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;seriennummern&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;91NJ00144&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; ]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="881" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-74" value="1. Header: 204" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="901" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-76" target="MxVG2Uw_UsaYFf1mZjNR-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-76" value="Vorgang: Get all serial numbers in&amp;nbsp;&lt;div&gt;I-250027&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="990" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-78" target="MxVG2Uw_UsaYFf1mZjNR-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-78" value="Vorgang: Get all serial numbers in&amp;nbsp;&lt;div&gt;I-230032&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2822" y="990" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-79" value="2. Body:&amp;nbsp;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;91NJ00144&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: initial;&quot;&gt;&quot; in [*]&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="1010" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-80" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2735" y="832" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-81" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2845" y="832" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-83" target="MxVG2Uw_UsaYFf1mZjNR-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-83" value="Search: Get Vorgang/Produkt/SN combinations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="1130" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-84" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/search/vorgang_produkt_seriennummer&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;?searchTerm=90NJ00999&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="1112" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-85" value="1. Header: 200 OK&lt;div style=&quot;text-align: left;&quot;&gt;2. Body:&amp;nbsp;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;$.results[0].resultType:&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&quot;seriennummer&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; text-align: left;&quot;&gt;3. Body:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$.results[0].seriennummer:&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;90NJ00999&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="1109" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-88" target="MxVG2Uw_UsaYFf1mZjNR-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-88" target="MxVG2Uw_UsaYFf1mZjNR-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-88" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Body:&amp;nbsp;$.results[*].produktname&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;:&quot;BB131a-5?&quot;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="2695.13" y="1210" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-90" target="MxVG2Uw_UsaYFf1mZjNR-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-90" value="&lt;div&gt;&amp;nbsp;Vorgang: Migrate serial numbers to a product revision&lt;br&gt;&lt;/div&gt;&lt;div&gt;BB131a-4&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="1351" width="130" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-91" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2735" y="1291" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-93" target="MxVG2Uw_UsaYFf1mZjNR-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-93" value="&lt;div&gt;&amp;nbsp;Vorgang: Migrate serial numbers to a product revision&lt;br&gt;&lt;/div&gt;&lt;div&gt;BB131a-5&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="1351" width="130" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-94" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2839" y="1290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-96" target="MxVG2Uw_UsaYFf1mZjNR-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-96" value="&lt;div&gt;Search: Get Seriennummern by Vorgang and Produkt&lt;br&gt;&lt;/div&gt;&lt;div&gt;I-230032+&lt;span style=&quot;background-color: initial;&quot;&gt;BB131a-4&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="1470" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-98" target="MxVG2Uw_UsaYFf1mZjNR-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-98" value="&lt;div&gt;Search: Get Seriennummern by Vorgang and Produkt&lt;br&gt;&lt;/div&gt;&lt;div&gt;I-230032+&lt;span style=&quot;background-color: initial;&quot;&gt;BB131a-5&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="1469" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-99" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[POST]/r/vorgang/{vNr}/change_revision&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2390" y="1338" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-100" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;oldProduct&quot;: &quot;&lt;span style=&quot;text-align: center; text-wrap: wrap;&quot;&gt;BB131a-5&lt;/span&gt;&quot;/&quot;&lt;span style=&quot;text-align: center; text-wrap: wrap; background-color: initial;&quot;&gt;BB131a-4&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;newProduct&quot;: &quot;&lt;span style=&quot;text-align: center; text-wrap: wrap;&quot;&gt;BB131a-4&lt;/span&gt;&quot;/&quot;&lt;span style=&quot;text-align: center; text-wrap: wrap; background-color: initial;&quot;&gt;BB131a-5&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;seriennummern&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;90NJ00999&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; ]&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2495" y="1346" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-101" value="1. Header: 204" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="1376" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-102" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]&lt;/span&gt;&lt;font size=&quot;3&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;/r/search/seriennummern_by_vorgang_produkt&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="1488.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-103" value="2. Body: &quot;90NJ00999&quot; in $.results[*].sn" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2981" y="1469" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-104" value="1. Header: 200 OK&lt;div style=&quot;text-align: left;&quot;&gt;2. Body:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;90NJ00999&quot; in $.results[*].sn&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="1499" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-106" target="MxVG2Uw_UsaYFf1mZjNR-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-106" value="Vorgang: Create test reports(Prüfprotokoll)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2689" y="1601" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-107" value="1. Header: 204" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="1596" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-110" target="MxVG2Uw_UsaYFf1mZjNR-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-110" target="MxVG2Uw_UsaYFf1mZjNR-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2665" y="1666" />
+              <mxPoint x="2665" y="1775" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-110" value="Vorgang: Get serial number data and steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2689" y="1656" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-111" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[POST]/r/vorgang/{vNr}/{produkt}/bulk_create_reports&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="1590" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-112" value="2. Body: OK between 03. and 04." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2978.87" y="1702" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-114" target="MxVG2Uw_UsaYFf1mZjNR-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-114" value="Seriennummer: Delete the text report(Prüfbericht)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2684.07" y="1770" width="270.12" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-115" value="Body: $.seriennummern[*].reports[*].fileName" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2415" y="1724" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.539;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-114" target="MxVG2Uw_UsaYFf1mZjNR-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2990" y="1780" />
+              <mxPoint x="2990" y="1810" />
+              <mxPoint x="2830" y="1810" />
+              <mxPoint x="2830" y="1789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-117" value="&amp;nbsp;90NJ00999 &amp;amp; 60NJ00143" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2827" y="1789" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-118" value="Test.csv: clear data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2707.13" y="1860" width="224.87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-120" target="MxVG2Uw_UsaYFf1mZjNR-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-120" value="&lt;div&gt;Content-Type:text/csv&lt;br&gt;&lt;/div&gt;Vorgang: Generate a CSV file&lt;div&gt;Content-Type:application/json&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2681.13" y="1910" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-118" target="MxVG2Uw_UsaYFf1mZjNR-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-122" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/vorgang/{vNr}/{produkt}.csv&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="1905" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-123" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="1364" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-124" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="1621" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-125" value="BB131a-5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2276" y="1621" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-126" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2324" y="1930" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-127" value="BB131a-5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2385" y="1930" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-128" value="1. Test.csv:&amp;nbsp;empty" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2981" y="1855" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-129" value="2. Header: 200 OK&lt;div&gt;3. Test.csv: SN inside&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2979" y="1900" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-131" target="MxVG2Uw_UsaYFf1mZjNR-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-131" value="Test.xlsx: clear data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2681" y="1985" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-132" value="1. Test.xlsx:&amp;nbsp;empty" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2976.87" y="1980" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-134" target="MxVG2Uw_UsaYFf1mZjNR-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-134" value="&lt;div&gt;Content-Type:application/vnd.openxmlformats-officedocument.spreadsheetml.sheet&lt;br&gt;&lt;/div&gt;Vorgang: Generate an XLSX file&lt;div&gt;Content-Type:application/json&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2681.13" y="2036" width="270" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-135" value="2. Header: 200 OK&lt;div&gt;3. Test.xlsx:&amp;nbsp;SN inside&lt;/div&gt;&lt;div&gt;4.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Test.xlsx:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Date&amp;nbsp;%y-%m-%d inside&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2976" y="2043" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-136" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/vorgang/{vNr}/{produkt}.xlsx&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="2036" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-137" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="2058" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-138" value="BB131a-5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="2058" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-140" target="MxVG2Uw_UsaYFf1mZjNR-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-140" value="Fertigmeldung: Create a Fertigmeldung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2682" y="2160" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-141" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[POST]/r/fertigmeldung&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="2155" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-142" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;vorgang&quot;: &quot;I-230032&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;produkt&quot;: &quot;BB131a-5&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;seriennummern&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;60NJ00143&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;notify&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;info&quot;: &quot;&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="2160" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-143" value="1. Header:&amp;nbsp;201" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2974" y="2154.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-145" target="MxVG2Uw_UsaYFf1mZjNR-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-145" value="Vorgang: Get serial number data and steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2688.88" y="2230" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-147" target="MxVG2Uw_UsaYFf1mZjNR-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-147" value="Vorgang: Get a CSV file(Fertigmeldung report)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2688.87" y="2309" width="256.25" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-148" value="2. Body: $.seriennummern[0].fertiggemeldet: true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2968" y="2228" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-150" target="MxVG2Uw_UsaYFf1mZjNR-151">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2660" y="2273" />
+              <mxPoint x="2660" y="2319" />
+              <mxPoint x="2489" y="2319" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-150" value="$.seriennummern[0].history[-1].fertigmeldungCSV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2675" y="2258" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-151" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/vorgang/{vNr}/csv/{fileName}&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2405" y="2301" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-152" value="I-230032" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2324" y="2325" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-153" value="3. Header: 200 OK&lt;div&gt;4. Body:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;I-230032 inside&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Body:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;60NJ00143&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;inside&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2976.87" y="2295" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-154" value="1. Header: 200 OK&lt;div&gt;2. Body:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;I-230032 inside&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Body:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;60NJ00143&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;inside&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2976.87" y="2380" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-156" target="MxVG2Uw_UsaYFf1mZjNR-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-156" value="Fertigmeldung: Revert the Fertigmeldung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2688" y="2480" width="258" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-157" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[POST]/r/fertigmeldung/revert&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="2475" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-158" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;vorgang&quot;: &quot;I-230032&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;produkt&quot;: &quot;BB131a-5&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;seriennummern&quot;: [&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &quot;60NJ00143&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; ],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;notify&quot;: false,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &quot;info&quot;: &quot;&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2489" y="2475" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-159" value="1. Header:&amp;nbsp;201" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2973.87" y="2475" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-161" target="MxVG2Uw_UsaYFf1mZjNR-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-161" value="Vorgang: Get serial number data and steps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2689" y="2550" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-162" value="2. Body: $.seriennummern[0].fertiggemeldet: false" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2964" y="2545" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-164" target="MxVG2Uw_UsaYFf1mZjNR-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-164" value="Search: Get Vorgang/Produkt combinations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2688.87" y="2650" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-165" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/search/vorgang_produkt&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;?searchTerm=I-230032&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="2640" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-166" value="1. Header: 200 OK&lt;div&gt;2. Body:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;$.results[0].resultType:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;vorgang&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Body:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$.results[0].vorgangsnummer:&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(250, 250, 250); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: right; white-space-collapse: preserve;&quot;&gt;I-230032&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2974" y="2640" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-167" value="Search: Lookup Vorgang" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2688.87" y="2730" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-168" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/search/vorgang&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;?searchTerm=I-230032&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="2401" y="2725" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-169" value="1. Header: 200 OK&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Body:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;$.results[0].vNr:&quot;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(250, 250, 250); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; text-align: right; white-space-collapse: preserve;&quot;&gt;I-230032&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2972" y="2725" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MxVG2Uw_UsaYFf1mZjNR-171" target="MxVG2Uw_UsaYFf1mZjNR-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-171" value="Seriennummer: Get the text report(Prüfbericht)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2689.01" y="1704" width="256.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-172" value="&lt;span style=&quot;text-align: left;&quot;&gt;Body: $.seriennummern[0].reports[-1].fileName&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2682.14" y="1674" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-174" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Endpoint&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-178" value="&lt;h4 style=&quot;box-sizing: border-box; color: rgb(59, 65, 81); font-family: sans-serif; margin: 0px; flex: 1 1 0%; text-align: start;&quot; class=&quot;opblock-title parameter__name required&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Actions&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2735" y="91" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxVG2Uw_UsaYFf1mZjNR-181" value="&lt;h4 style=&quot;box-sizing: border-box; color: rgb(59, 65, 81); font-family: sans-serif; margin: 0px; flex: 1 1 0%; text-align: start;&quot; class=&quot;opblock-title parameter__name required&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Criteria&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3064" y="91" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

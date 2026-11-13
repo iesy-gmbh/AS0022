@@ -1,0 +1,91 @@
+<mxfile host="Electron" modified="2025-10-30T15:24:19.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="6BUe8qyO6sAonl6ErnAk" version="24.6.4" type="device">
+  <diagram name="Seite-1" id="ECCb9zhtTXSWj-vpalwa">
+    <mxGraphModel dx="2555" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-497" y="544" width="1329" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="569.5" y="550" width="256.5" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="199" y="550" width="368" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="550" width="556" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="74" y="550" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="573.5" y="737.5" width="247" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="574" y="609" width="247" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bf3SmVrluAR_0MoR83Hg-37" target="bf3SmVrluAR_0MoR83Hg-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-37" value="MAC addresses: Get all reserved MAC addresses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="216" y="615.5" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-38" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/mac_address_auto/seriennummer/{seriennummer}&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="610.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-39" value="60NJ00143" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-32" y="631.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-40" value="1. Header: 200 OK&lt;div style=&quot;text-align: left;&quot;&gt;2. Body: &quot;F0F9F7023FB6&quot; in&amp;nbsp;$[*].address&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="577" y="610" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bf3SmVrluAR_0MoR83Hg-42" target="bf3SmVrluAR_0MoR83Hg-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-42" value="&amp;nbsp;MAC addresses: Get the most recently reserved MAC addresses" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="201" y="687.5" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-43" value="1. Header: 200 OK&lt;div style=&quot;text-align: left;&quot;&gt;2. Body: &quot;F0F9F7023FB6&quot; in&amp;nbsp;$[*].address&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="678" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-44" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/mac_address_auto/seriennummer/{seriennummer}/most_recent_reservation&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="685" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-45" value="60NJ00143" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="707" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-46" value="MAC addresses: Get data for a MAC address" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="221" y="747.5" width="321" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-47" value="1. Header: 200 OK&lt;div style=&quot;text-align: left;&quot;&gt;2. Body: &quot;serialNumber&quot;:&quot;&lt;span style=&quot;text-align: center;&quot;&gt;60NJ00143&lt;/span&gt;&quot;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="737.5" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-48" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;[GET]/r/mac_address_auto/address/{macAddress}&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="746.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-49" value="F0F9F7023FB6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-44" y="769" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="573.5" y="677.5" width="247" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-51" value="1. Header: 200 OK&lt;div style=&quot;text-align: left;&quot;&gt;2. Body: &quot;F0F9F7023FB6&quot; in&amp;nbsp;$[*].address&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="573.5" y="678.5" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Endpoint&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-54" value="&lt;h4 style=&quot;box-sizing: border-box; color: rgb(59, 65, 81); font-family: sans-serif; margin: 0px; flex: 1 1 0%; text-align: start;&quot; class=&quot;opblock-title parameter__name required&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Request body&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="555" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-56" value="&lt;h4 style=&quot;box-sizing: border-box; color: rgb(59, 65, 81); font-family: sans-serif; margin: 0px; flex: 1 1 0%; text-align: start;&quot; class=&quot;opblock-title parameter__name required&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Actions&lt;/font&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="311.5" y="555" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf3SmVrluAR_0MoR83Hg-62" value="&lt;h4 style=&quot;box-sizing: border-box; color: rgb(59, 65, 81); font-family: sans-serif; margin: 0px; flex: 1 1 0%; text-align: start;&quot; class=&quot;opblock-title parameter__name required&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Criteria&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="627.75" y="555" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
